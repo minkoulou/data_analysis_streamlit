@@ -1,5 +1,7 @@
 pandas
 streamlit
+pandas
 matplotlib
 seaborn
 openpyxl
+numpy
